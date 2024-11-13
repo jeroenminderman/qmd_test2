@@ -2,6 +2,10 @@
 title: "qmd_test2"
 ---
 
+# Testing
+
 This is a Quarto website.
+
+## Some more tests
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
